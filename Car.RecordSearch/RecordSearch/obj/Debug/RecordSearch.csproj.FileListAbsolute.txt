@@ -1,0 +1,5 @@
+E:\github\carmanager\Car.RecordSearch\RecordSearch\bin\Debug\RecordSearch.dll
+E:\github\carmanager\Car.RecordSearch\RecordSearch\bin\Debug\RecordSearch.pdb
+E:\github\carmanager\Car.RecordSearch\RecordSearch\obj\Debug\RecordSearch.dll
+E:\github\carmanager\Car.RecordSearch\RecordSearch\obj\Debug\RecordSearch.pdb
+E:\github\carmanager\Car.RecordSearch\RecordSearch\obj\Debug\RecordSearch.csprojResolveAssemblyReference.cache

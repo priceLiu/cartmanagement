@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<area>
+  - <province name="广东省" abbr="粤">
+    <city name="广州市" vin="6" ein="6" abbr="A" />
+    <city name="深圳市" vin="6" ein="6" abbr="B" />
+    <city name="珠海市" vin="6" ein="6" abbr="C" />
+    <city name="汕头市" vin="6" ein="6" abbr="D" />
+    <city name="佛山市" vin="6" ein="6" abbr="E" />
+    <city name="韶关市" vin="6" ein="6" abbr="F" />
+    <city name="湛江市" vin="6" ein="6" abbr="G" />
+    <city name="肇庆市" vin="6" ein="6" abbr="H" />
+    <city name="江门市" vin="6" ein="6" abbr="J" />
+    <city name="茂名市" vin="6" ein="6" abbr="K" />
+    <city name="惠州市" vin="6" ein="6" abbr="L" />
+    <city name="梅州市" vin="6" ein="6" abbr="M" />
+    <city name="汕尾市" vin="6" ein="6" abbr="N" />
+    <city name="河源市" vin="6" ein="6" abbr="P" />
+    <city name="阳江市" vin="6" ein="6" abbr="Q" />
+    <city name="清远市" vin="6" ein="6" abbr="R" />
+    <city name="东莞市" vin="6" ein="6" abbr="S" />
+    <city name="中山市" vin="6" ein="6" abbr="T" />
+    <city name="潮州市" vin="6" ein="6" abbr="U" />
+    <city name="揭阳市" vin="6" ein="6" abbr="V" />
+    <city name="云浮市" vin="6" ein="6" abbr="W" />
+    <city name="顺德" vin="6" ein="6" abbr="X" />
+    <city name="南海" vin="6" ein="6" abbr="Y" />
+    <city name="港澳入境车辆" vin="6" ein="6" abbr="Z" />
+  </province>
+  - <province name="上海市" abbr="沪" sp="1">
+    <city name="上海市" ein="8" />
+  </province>
+  - <province name="北京市" abbr="京" sp="1">
+    <city name="北京市" ein="8" />
+  </province>
+  - <province name="广西省" abbr="桂" sp="2">
+    - <!-- special=1：直辖市，special=2：只允许异地违章
+  -->
+  </province>
+  - <province name="浙江省" abbr="浙">
+    <city name="杭州市" vin="6" abbr="A" />
+    <city name="宁波市" vin="6" abbr="B" />
+    <city name="温州市" vin="8" abbr="C" />
+    <city name="绍兴市" vin="8" abbr="D" />
+    <city name="湖州市" vin="6" abbr="E" />
+    <city name="嘉兴市" vin="8" ein="8" abbr="F" />
+    <city name="金华市" vin="6" abbr="G" />
+    <city name="衢州市" vin="6" abbr="H" />
+    <city name="台州市" vin="6" abbr="J" />
+    <city name="丽水市" vin="6" abbr="K" />
+  </province>
+  - <province name="江苏省" abbr="苏">
+    <city name="南京市" ein="6" vin="6" abbr="A" />
+    <city name="无锡市" ein="6" vin="6" abbr="B" />
+    <city name="徐州市" ein="6" vin="6" abbr="C" />
+    <city name="常州市" ein="6" vin="6" abbr="D" />
+    <city name="苏州市" ein="8" vin="8" abbr="E" />
+    <city name="南通市" ein="8" vin="8" abbr="F" />
+    <city name="连云港市" ein="6" vin="6" abbr="G" />
+    <city name="盐城市" ein="6" vin="6" abbr="J" />
+    <city name="扬州市" ein="8" vin="8" abbr="K" />
+    <city name="宿迁市" ein="6" vin="6" abbr="N" />
+  </province>
+  - <province name="福建省" abbr="闽">
+    <city name="福州市" vin="6" abbr="A" />
+    <city name="莆田市" vin="6" abbr="B" />
+    <city name="泉州市" vin="6" abbr="C" />
+    <city name="厦门市" vin="6" abbr="D" />
+    <city name="漳州市" vin="6" abbr="E" />
+    <city name="龙岩市" vin="6" abbr="F" />
+    <city name="三明市" vin="6" abbr="G" />
+    <city name="南平市" vin="6" abbr="H" />
+    <city name="宁德市" vin="6" abbr="J" />
+  </province>
+  - <province name="重庆市" abbr="渝" sp="1">
+    <city name="重庆市" vin="8" />
+  </province>
+  - <province name="湖南省" abbr="湘">
+    <city name="长沙市" vin="6" ein="6" abbr="A" />
+    <city name="株洲市" vin="6" ein="6" abbr="B" />
+    <city name="湘潭市" vin="6" ein="6" abbr="C" />
+    <city name="衡阳市" vin="6" ein="6" abbr="D" />
+    <city name="邵阳市" vin="6" ein="6" abbr="E" />
+    <city name="岳阳市" vin="6" ein="6" abbr="F" />
+    <city name="张家界市" vin="6" ein="6" abbr="G" />
+    <city name="益阳市" vin="6" ein="6" abbr="H" />
+    <city name="常德市" vin="6" ein="6" abbr="J" />
+    <city name="娄底市" vin="6" ein="6" abbr="K" />
+    <city name="郴州市" vin="6" ein="6" abbr="L" />
+    <city name="永州市" vin="6" ein="6" abbr="M" />
+    <city name="怀化市" vin="6" ein="6" abbr="N" />
+    <city name="湘西州" vin="6" ein="6" abbr="P" />
+  </province>
+  - <province name="河北省" abbr="冀">
+    <city name="石家庄市" vin="6" abbr="A" />
+    <city name="唐山市" vin="6" abbr="B" />
+    <city name="秦皇岛市" vin="6" abbr="C" />
+    <city name="邯郸市" vin="6" abbr="D" />
+    <city name="刑台市" vin="6" abbr="E" />
+    <city name="保定市" vin="6" abbr="F" />
+    <city name="张家口市" vin="6" abbr="G" />
+    <city name="承德市" vin="6" abbr="H" />
+    <city name="沧州市" vin="6" abbr="J" />
+    <city name="邯郸市" vin="6" abbr="K" />
+    <city name="刑台市" vin="6" abbr="L" />
+    <city name="保定市" vin="6" abbr="N" />
+    <city name="张家口市" vin="6" abbr="P" />
+    <city name="承德市" vin="6" abbr="Q" />
+    <city name="廊坊市" vin="6" abbr="R" />
+    <city name="沧州市" vin="6" abbr="S" />
+    <city name="衡水市" vin="6" abbr="T" />
+  </province>
+  - <province name="山东省" abbr="鲁">
+    <city name="济南市" vin="8" abbr="A" />
+    <city name="青岛市" vin="6" abbr="B" />
+    <city name="淄博市" vin="6" abbr="C" />
+    <city name="枣庄市" vin="6" abbr="D" />
+    <city name="东营市" vin="6" abbr="E" />
+    <city name="烟台市" vin="6" abbr="F" />
+    <city name="潍坊市" vin="6" abbr="G" />
+    <city name="济宁市" vin="6" abbr="H" />
+    <city name="泰安市" vin="6" abbr="J" />
+    <city name="威海市" vin="6" abbr="K" />
+    <city name="日照市" vin="6" abbr="L" />
+    <city name="滨州市" vin="6" abbr="M" />
+    <city name="德州市" vin="6" abbr="N" />
+    <city name="聊城市" vin="6" abbr="P" />
+    <city name="临沂市" vin="6" abbr="Q" />
+    <city name="菏泽市" vin="6" abbr="R" />
+    <city name="莱芜市" vin="6" abbr="S" />
+    <city name="青岛市" vin="6" abbr="U" />
+    <city name="潍坊市" vin="6" abbr="V" />
+    <city name="烟台市" vin="6" abbr="Y" />
+  </province>
+  - <province name="辽宁省" abbr="辽">
+    <city name="沈阳市" vin="6" abbr="A" />
+    <city name="大连市" vin="6" abbr="B" />
+    <city name="鞍山市" vin="6" abbr="C" />
+    <city name="抚顺市" vin="6" abbr="D" />
+    <city name="本溪市" vin="8" abbr="E" />
+    <city name="丹东市" vin="6" ein="8" abbr="F" />
+    <city name="锦州市" vin="6" abbr="G" />
+    <city name="营口市" vin="6" abbr="H" />
+    <city name="阜新市" vin="6" abbr="J" />
+    <city name="辽阳市" vin="6" abbr="K" />
+    <city name="盘锦市" vin="6" abbr="L" />
+    <city name="铁岭市" vin="6" abbr="M" />
+    <city name="朝阳市" vin="6" abbr="N" />
+    <city name="葫芦岛市" vin="6" abbr="P" />
+  </province>
+  - <province name="湖北省" abbr="鄂">
+    <city name="武汉市" vin="6" abbr="A" />
+    <city name="黄石市" vin="6" abbr="B" />
+    <city name="十堰市" vin="6" abbr="C" />
+    <city name="荆州市" vin="6" abbr="D" />
+    <city name="宜昌市" vin="6" abbr="E" />
+    <city name="襄樊市" vin="6" abbr="F" />
+    <city name="鄂州市" vin="6" abbr="G" />
+    <city name="荆门市" vin="6" abbr="H" />
+    <city name="黄冈市" vin="6" abbr="J" />
+    <city name="孝感市" vin="6" abbr="K" />
+    <city name="咸宁市" vin="6" abbr="L" />
+    <city name="仙桃市" vin="6" abbr="M" />
+    <city name="潜江市" vin="6" abbr="N" />
+    <city name="神农架林区" vin="6" abbr="P" />
+    <city name="恩施州" vin="6" abbr="Q" />
+    <city name="天门市" vin="6" abbr="R" />
+    <city name="随州市" vin="6" abbr="S" />
+  </province>
+  - <province name="四川省" abbr="川">
+    <city name="成都市" vin="6" abbr="A" />
+    <city name="绵阳市" vin="6" abbr="B" />
+    <city name="自贡市" vin="6" abbr="C" />
+    <city name="攀枝花市" vin="6" abbr="D" />
+    <city name="泸州市" vin="6" abbr="E" />
+    <city name="德阳市" vin="6" abbr="F" />
+    <city name="广元市" vin="6" abbr="H" />
+    <city name="遂宁市" vin="6" abbr="J" />
+    <city name="内江市" vin="6" abbr="K" />
+    <city name="乐山市" vin="6" abbr="L" />
+    <city name="资阳市" vin="6" abbr="M" />
+    <city name="宜宾市" vin="6" abbr="Q" />
+    <city name="南充市" vin="6" abbr="R" />
+    <city name="达州市" vin="6" abbr="S" />
+    <city name="雅安市" vin="6" abbr="T" />
+    <city name="阿坝州" vin="6" abbr="U" />
+    <city name="甘孜州" vin="6" abbr="V" />
+    <city name="凉山州" vin="6" abbr="W" />
+    <city name="广安市" vin="6" abbr="X" />
+    <city name="巴中市" vin="6" abbr="Y" />
+    <city name="眉山市" vin="6" abbr="Z" />
+  </province>
+  - <province name="陕西省" abbr="陕">
+    <city name="西安市" vin="8" ein="8" abbr="A" />
+    <city name="铜川市" vin="8" abbr="B" />
+    <city name="宝鸡市" vin="8" abbr="C" />
+    <city name="咸阳市" vin="8" abbr="D" />
+    <city name="渭南市" vin="8" abbr="E" />
+    <city name="汉中市" vin="8" abbr="F" />
+    <city name="安康市" vin="8" abbr="G" />
+    <city name="延安市" vin="8" abbr="J" />
+    <city name="榆林市" vin="8" ein="8" abbr="K" />
+  </province>
+  - <province name="山西省" abbr="晋">
+    <city name="太原市" vin="6" abbr="A" />
+    <city name="大同市" vin="6" abbr="B" />
+    <city name="阳泉市" vin="6" abbr="C" />
+    <city name="长治市" vin="6" abbr="D" />
+    <city name="晋城市" vin="6" abbr="E" />
+    <city name="朔州市" vin="6" abbr="F" />
+    <city name="雁北市" vin="6" abbr="G" />
+    <city name="忻州市" vin="6" abbr="H" />
+    <city name="吕梁市" vin="6" abbr="J" />
+    <city name="运城市" vin="6" abbr="K" />
+  </province>
+  - <province name="河南省" abbr="豫">
+    <city name="郑州市" vin="8" abbr="A" />
+    <city name="洛阳市" ein="8" abbr="C" />
+  </province>
+  - <province name="安徽省" abbr="皖">
+    <city name="合肥市" vin="6" abbr="A" />
+    <city name="芜湖市" vin="6" abbr="B" />
+    <city name="蚌埠市" vin="6" abbr="C" />
+    <city name="淮南市" vin="6" abbr="D" />
+    <city name="马鞍山市" vin="6" abbr="E" />
+    <city name="淮北市" vin="6" abbr="F" />
+    <city name="铜陵市" vin="6" abbr="G" />
+    <city name="安庆市" vin="6" abbr="H" />
+    <city name="黄山市" vin="6" abbr="J" />
+    <city name="阜阳市" vin="6" abbr="K" />
+    <city name="宿州市" vin="6" abbr="L" />
+    <city name="滁州市" vin="6" abbr="M" />
+    <city name="六安市" vin="6" abbr="N" />
+    <city name="宣城市" vin="6" abbr="P" />
+    <city name="巢湖市" vin="6" abbr="Q" />
+    <city name="池州市" vin="6" abbr="R" />
+    <city name="亳州市" vin="6" abbr="S" />
+  </province>
+  - <province name="贵州省" abbr="贵">
+    <city name="贵阳市" ein="6" abbr="A" />
+    <city name="六盘水市" ein="6" abbr="B" />
+    <city name="遵义市" ein="6" abbr="C" />
+    <city name="铜仁地区" ein="6" abbr="D" />
+    <city name="黔西南州" ein="6" abbr="E" />
+    <city name="毕节地区" ein="6" abbr="F" />
+    <city name="安顺市" ein="6" abbr="G" />
+    <city name="黔东南州" ein="6" abbr="H" />
+    <city name="黔南州" ein="6" abbr="J" />
+  </province>
+  - <province name="甘肃省" abbr="甘">
+    <city name="兰州市" vin="8" abbr="A" />
+    <city name="嘉峪关市" vin="8" abbr="B" />
+    <city name="金昌市" vin="8" abbr="C" />
+    <city name="白银市" vin="8" abbr="D" />
+    <city name="天水市" vin="8" abbr="E" />
+    <city name="酒泉市" vin="8" abbr="F" />
+    <city name="张掖市" vin="8" abbr="G" />
+    <city name="武威市" vin="8" abbr="H" />
+    <city name="定西市" vin="8" abbr="J" />
+    <city name="陇南市" vin="8" abbr="K" />
+    <city name="平凉市" vin="8" abbr="L" />
+    <city name="庆阳市" vin="8" abbr="M" />
+    <city name="临夏州" vin="8" abbr="N" />
+    <city name="甘南州" vin="8" abbr="P" />
+  </province>
+  - <province name="宁夏" abbr="宁">
+    <city name="银川市" vin="8" ein="8" abbr="A" />
+    <city name="石嘴山市" vin="8" ein="8" abbr="B" />
+    <city name="吴忠市" vin="8" ein="8" abbr="C" />
+    <city name="固原市" vin="8" ein="8" abbr="D" />
+    <city name="中卫市" vin="8" ein="8" abbr="E" />
+  </province>
+  - <province name="黑龙江省" abbr="黑">
+    <city name="哈尔滨市" vin="8" ein="8" abbr="A" />
+    <city name="齐齐哈尔市" vin="8" abbr="B" />
+    <city name="牡丹江市" vin="8" abbr="C" />
+    <city name="佳木斯市" vin="8" abbr="D" />
+    <city name="大庆市" vin="8" abbr="E" />
+    <city name="伊春市" vin="8" abbr="F" />
+    <city name="鸡西市" vin="8" abbr="G" />
+    <city name="鹤岗市" vin="8" abbr="H" />
+    <city name="双鸭山市" vin="8" abbr="J" />
+    <city name="七台河市" vin="8" abbr="K" />
+    <city name="绥化市" vin="8" abbr="M" />
+    <city name="黑河市" vin="8" abbr="N" />
+    <city name="大兴安岭地区" vin="8" abbr="P" />
+  </province>
+  - <province name="吉林省" abbr="吉">
+    <city name="长春市" vin="6" ein="8" abbr="A" />
+    <city name="延边州" vin="6" ein="8" abbr="H" />
+  </province>
+  - <province name="海南省" abbr="琼">
+    <city name="海口市" vin="6" abbr="A" />
+    <city name="三亚市" vin="6" abbr="B" />
+  </province>
+  - <province name="内蒙古" abbr="蒙">
+    <city name="呼和浩特市" vin="6" abbr="A" />
+    <city name="包头市" abbr="B" ein="8" vin="6" />
+    <city name="鄂尔多斯市" vin="6" abbr="K" />
+  </province>
+  - <province name="云南省" abbr="云">
+    <city name="昆明市" abbr="A" vin="6" />
+    <city name="昭通市" abbr="C" vin="6" />
+    <city name="玉溪市" abbr="F" vin="6" />
+    <city name="红河州" abbr="G" vin="6" />
+    <city name="普洱市" abbr="J" vin="6" />
+  </province>
+  - <province name="江西省" abbr="赣">
+    <city name="南昌市" abbr="A" vin="6" />
+    <city name="赣州市" abbr="B" vin="6" />
+    <city name="宜春市" abbr="C" vin="6" />
+    <city name="吉安市" abbr="D" vin="6" />
+    <city name="上饶市" abbr="E" vin="6" />
+    <city name="抚州市" abbr="F" vin="6" />
+    <city name="九江市" abbr="G" vin="6" />
+    <city name="景德镇市" abbr="H" vin="6" />
+    <city name="萍乡市" abbr="J" vin="6" />
+    <city name="新余市" abbr="K" vin="6" />
+    <city name="鹰潭市" abbr="L" vin="6" />
+  </province>
+</area>
